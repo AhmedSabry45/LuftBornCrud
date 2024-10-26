@@ -1,0 +1,17 @@
+G:\Crud Operation\LuftBorn.API\Application\bin\Debug\net8.0\Application.deps.json
+G:\Crud Operation\LuftBorn.API\Application\bin\Debug\net8.0\Application.dll
+G:\Crud Operation\LuftBorn.API\Application\bin\Debug\net8.0\Application.pdb
+G:\Crud Operation\LuftBorn.API\Application\bin\Debug\net8.0\Core.dll
+G:\Crud Operation\LuftBorn.API\Application\bin\Debug\net8.0\Infrastructure.dll
+G:\Crud Operation\LuftBorn.API\Application\bin\Debug\net8.0\Core.pdb
+G:\Crud Operation\LuftBorn.API\Application\bin\Debug\net8.0\Infrastructure.pdb
+G:\Crud Operation\LuftBorn.API\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+G:\Crud Operation\LuftBorn.API\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+G:\Crud Operation\LuftBorn.API\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+G:\Crud Operation\LuftBorn.API\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+G:\Crud Operation\LuftBorn.API\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+G:\Crud Operation\LuftBorn.API\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+G:\Crud Operation\LuftBorn.API\Application\obj\Debug\net8.0\Application.dll
+G:\Crud Operation\LuftBorn.API\Application\obj\Debug\net8.0\refint\Application.dll
+G:\Crud Operation\LuftBorn.API\Application\obj\Debug\net8.0\Application.pdb
+G:\Crud Operation\LuftBorn.API\Application\obj\Debug\net8.0\ref\Application.dll

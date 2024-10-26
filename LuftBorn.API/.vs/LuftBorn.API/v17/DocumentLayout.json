@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Crud Operation\\LuftBorn.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D070E3A-920A-4D5F-B1BC-7A4B45E00566}|LuftBorn.API\\LuftBorn.API.csproj|g:\\crud operation\\luftborn.api\\luftborn.api\\extensions\\addcontrollerwithfluentvalidationdiextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D070E3A-920A-4D5F-B1BC-7A4B45E00566}|LuftBorn.API\\LuftBorn.API.csproj|solutionrelative:luftborn.api\\extensions\\addcontrollerwithfluentvalidationdiextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D070E3A-920A-4D5F-B1BC-7A4B45E00566}|LuftBorn.API\\LuftBorn.API.csproj|g:\\crud operation\\luftborn.api\\luftborn.api\\luftborn.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8D070E3A-920A-4D5F-B1BC-7A4B45E00566}|LuftBorn.API\\LuftBorn.API.csproj|solutionrelative:luftborn.api\\luftborn.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D070E3A-920A-4D5F-B1BC-7A4B45E00566}|LuftBorn.API\\LuftBorn.API.csproj|g:\\crud operation\\luftborn.api\\luftborn.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D070E3A-920A-4D5F-B1BC-7A4B45E00566}|LuftBorn.API\\LuftBorn.API.csproj|solutionrelative:luftborn.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D070E3A-920A-4D5F-B1BC-7A4B45E00566}|LuftBorn.API\\LuftBorn.API.csproj|g:\\crud operation\\luftborn.api\\luftborn.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8D070E3A-920A-4D5F-B1BC-7A4B45E00566}|LuftBorn.API\\LuftBorn.API.csproj|solutionrelative:luftborn.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D070E3A-920A-4D5F-B1BC-7A4B45E00566}|LuftBorn.API\\LuftBorn.API.csproj|g:\\crud operation\\luftborn.api\\luftborn.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D070E3A-920A-4D5F-B1BC-7A4B45E00566}|LuftBorn.API\\LuftBorn.API.csproj|solutionrelative:luftborn.api\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9568F79C-C863-4F64-95D9-F7648004FF8D}|Infrastructure\\Infrastructure.csproj|g:\\crud operation\\luftborn.api\\infrastructure\\migrations\\luftborncontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9568F79C-C863-4F64-95D9-F7648004FF8D}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\migrations\\luftborncontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E73E782D-6197-4E56-9BA2-00A3908E8555}|Core\\Core.csproj|g:\\crud operation\\luftborn.api\\core\\audit\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E73E782D-6197-4E56-9BA2-00A3908E8555}|Core\\Core.csproj|solutionrelative:core\\audit\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E73E782D-6197-4E56-9BA2-00A3908E8555}|Core\\Core.csproj|g:\\crud operation\\luftborn.api\\core\\audit\\models\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E73E782D-6197-4E56-9BA2-00A3908E8555}|Core\\Core.csproj|solutionrelative:core\\audit\\models\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E73E782D-6197-4E56-9BA2-00A3908E8555}|Core\\Core.csproj|g:\\crud operation\\luftborn.api\\core\\audit\\models\\applicationusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E73E782D-6197-4E56-9BA2-00A3908E8555}|Core\\Core.csproj|solutionrelative:core\\audit\\models\\applicationusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E73E782D-6197-4E56-9BA2-00A3908E8555}|Core\\Core.csproj|g:\\crud operation\\luftborn.api\\core\\audit\\models\\addusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E73E782D-6197-4E56-9BA2-00A3908E8555}|Core\\Core.csproj|solutionrelative:core\\audit\\models\\addusermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322DC114-1EDC-4B6A-8909-F4643C6F3667}|Application\\Application.csproj|g:\\crud operation\\luftborn.api\\application\\bussinesslogic\\items\\command\\update\\updatecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322DC114-1EDC-4B6A-8909-F4643C6F3667}|Application\\Application.csproj|solutionrelative:application\\bussinesslogic\\items\\command\\update\\updatecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322DC114-1EDC-4B6A-8909-F4643C6F3667}|Application\\Application.csproj|g:\\crud operation\\luftborn.api\\application\\bussinesslogic\\items\\command\\update\\updatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322DC114-1EDC-4B6A-8909-F4643C6F3667}|Application\\Application.csproj|solutionrelative:application\\bussinesslogic\\items\\command\\update\\updatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322DC114-1EDC-4B6A-8909-F4643C6F3667}|Application\\Application.csproj|g:\\crud operation\\luftborn.api\\application\\bussinesslogic\\items\\command\\add\\addcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322DC114-1EDC-4B6A-8909-F4643C6F3667}|Application\\Application.csproj|solutionrelative:application\\bussinesslogic\\items\\command\\add\\addcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322DC114-1EDC-4B6A-8909-F4643C6F3667}|Application\\Application.csproj|g:\\crud operation\\luftborn.api\\application\\bussinesslogic\\items\\command\\add\\addcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{322DC114-1EDC-4B6A-8909-F4643C6F3667}|Application\\Application.csproj|solutionrelative:application\\bussinesslogic\\items\\command\\add\\addcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{322DC114-1EDC-4B6A-8909-F4643C6F3667}|Application\\Application.csproj|g:\\crud operation\\luftborn.api\\application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{322DC114-1EDC-4B6A-8909-F4643C6F3667}|Application\\Application.csproj|solutionrelative:application\\application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9568F79C-C863-4F64-95D9-F7648004FF8D}|Infrastructure\\Infrastructure.csproj|g:\\crud operation\\luftborn.api\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9568F79C-C863-4F64-95D9-F7648004FF8D}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Crud Operation\\LuftBorn.API\\LuftBorn.API\\Program.cs",
+              "RelativeDocumentMoniker": "LuftBorn.API\\Program.cs",
+              "ToolTip": "G:\\Crud Operation\\LuftBorn.API\\LuftBorn.API\\Program.cs",
+              "RelativeToolTip": "LuftBorn.API\\Program.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T21:49:05.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddControllerWithFluentValidationDIExtension.cs",
+              "DocumentMoniker": "G:\\Crud Operation\\LuftBorn.API\\LuftBorn.API\\Extensions\\AddControllerWithFluentValidationDIExtension.cs",
+              "RelativeDocumentMoniker": "LuftBorn.API\\Extensions\\AddControllerWithFluentValidationDIExtension.cs",
+              "ToolTip": "G:\\Crud Operation\\LuftBorn.API\\LuftBorn.API\\Extensions\\AddControllerWithFluentValidationDIExtension.cs",
+              "RelativeToolTip": "LuftBorn.API\\Extensions\\AddControllerWithFluentValidationDIExtension.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAlwBgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T21:46:33.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "G:\\Crud Operation\\LuftBorn.API\\LuftBorn.API\\appsettings.json",
+              "RelativeDocumentMoniker": "LuftBorn.API\\appsettings.json",
+              "ToolTip": "G:\\Crud Operation\\LuftBorn.API\\LuftBorn.API\\appsettings.json",
+              "RelativeToolTip": "LuftBorn.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-26T21:48:36.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LuftBorn.API",
+              "DocumentMoniker": "G:\\Crud Operation\\LuftBorn.API\\LuftBorn.API\\LuftBorn.API.csproj",
+              "RelativeDocumentMoniker": "LuftBorn.API\\LuftBorn.API.csproj",
+              "ToolTip": "G:\\Crud Operation\\LuftBorn.API\\LuftBorn.API\\LuftBorn.API.csproj",
+              "RelativeToolTip": "LuftBorn.API\\LuftBorn.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-26T21:32:26.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LuftBornContextModelSnapshot.cs",
+              "DocumentMoniker": "G:\\Crud Operation\\LuftBorn.API\\Infrastructure\\Migrations\\LuftBornContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Migrations\\LuftBornContextModelSnapshot.cs",
+              "ToolTip": "G:\\Crud Operation\\LuftBorn.API\\Infrastructure\\Migrations\\LuftBornContextModelSnapshot.cs",
+              "RelativeToolTip": "Infrastructure\\Migrations\\LuftBornContextModelSnapshot.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAQwF4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T21:44:21.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseModel.cs",
+              "DocumentMoniker": "G:\\Crud Operation\\LuftBorn.API\\Core\\Audit\\Models\\BaseModel.cs",
+              "RelativeDocumentMoniker": "Core\\Audit\\Models\\BaseModel.cs",
+              "ToolTip": "G:\\Crud Operation\\LuftBorn.API\\Core\\Audit\\Models\\BaseModel.cs",
+              "RelativeToolTip": "Core\\Audit\\Models\\BaseModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T21:43:51.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "G:\\Crud Operation\\LuftBorn.API\\LuftBorn.API\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "LuftBorn.API\\Controllers\\AccountController.cs",
+              "ToolTip": "G:\\Crud Operation\\LuftBorn.API\\LuftBorn.API\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "LuftBorn.API\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAApwDMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T21:26:36.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuditLog.cs",
+              "DocumentMoniker": "G:\\Crud Operation\\LuftBorn.API\\Core\\Audit\\Models\\AuditLog.cs",
+              "RelativeDocumentMoniker": "Core\\Audit\\Models\\AuditLog.cs",
+              "ToolTip": "G:\\Crud Operation\\LuftBorn.API\\Core\\Audit\\Models\\AuditLog.cs",
+              "RelativeToolTip": "Core\\Audit\\Models\\AuditLog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T21:43:20.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddUserModel.cs",
+              "DocumentMoniker": "G:\\Crud Operation\\LuftBorn.API\\Core\\Audit\\Models\\AddUserModel.cs",
+              "RelativeDocumentMoniker": "Core\\Audit\\Models\\AddUserModel.cs",
+              "ToolTip": "G:\\Crud Operation\\LuftBorn.API\\Core\\Audit\\Models\\AddUserModel.cs",
+              "RelativeToolTip": "Core\\Audit\\Models\\AddUserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T21:31:28.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationUserModel.cs",
+              "DocumentMoniker": "G:\\Crud Operation\\LuftBorn.API\\Core\\Audit\\Models\\ApplicationUserModel.cs",
+              "RelativeDocumentMoniker": "Core\\Audit\\Models\\ApplicationUserModel.cs",
+              "ToolTip": "G:\\Crud Operation\\LuftBorn.API\\Core\\Audit\\Models\\ApplicationUserModel.cs",
+              "RelativeToolTip": "Core\\Audit\\Models\\ApplicationUserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T21:31:35.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UpdateCommandHandler.cs",
+              "DocumentMoniker": "G:\\Crud Operation\\LuftBorn.API\\Application\\BussinessLogic\\Items\\Command\\Update\\UpdateCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\BussinessLogic\\Items\\Command\\Update\\UpdateCommandHandler.cs",
+              "ToolTip": "G:\\Crud Operation\\LuftBorn.API\\Application\\BussinessLogic\\Items\\Command\\Update\\UpdateCommandHandler.cs",
+              "RelativeToolTip": "Application\\BussinessLogic\\Items\\Command\\Update\\UpdateCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T21:40:40.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UpdateCommand.cs",
+              "DocumentMoniker": "G:\\Crud Operation\\LuftBorn.API\\Application\\BussinessLogic\\Items\\Command\\Update\\UpdateCommand.cs",
+              "RelativeDocumentMoniker": "Application\\BussinessLogic\\Items\\Command\\Update\\UpdateCommand.cs",
+              "ToolTip": "G:\\Crud Operation\\LuftBorn.API\\Application\\BussinessLogic\\Items\\Command\\Update\\UpdateCommand.cs",
+              "RelativeToolTip": "Application\\BussinessLogic\\Items\\Command\\Update\\UpdateCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T21:40:21.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AddCommandHandler.cs",
+              "DocumentMoniker": "G:\\Crud Operation\\LuftBorn.API\\Application\\BussinessLogic\\Items\\Command\\Add\\AddCommandHandler.cs",
+              "RelativeDocumentMoniker": "Application\\BussinessLogic\\Items\\Command\\Add\\AddCommandHandler.cs",
+              "ToolTip": "G:\\Crud Operation\\LuftBorn.API\\Application\\BussinessLogic\\Items\\Command\\Add\\AddCommandHandler.cs",
+              "RelativeToolTip": "Application\\BussinessLogic\\Items\\Command\\Add\\AddCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T21:38:56.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddCommand.cs",
+              "DocumentMoniker": "G:\\Crud Operation\\LuftBorn.API\\Application\\BussinessLogic\\Items\\Command\\Add\\AddCommand.cs",
+              "RelativeDocumentMoniker": "Application\\BussinessLogic\\Items\\Command\\Add\\AddCommand.cs",
+              "ToolTip": "G:\\Crud Operation\\LuftBorn.API\\Application\\BussinessLogic\\Items\\Command\\Add\\AddCommand.cs",
+              "RelativeToolTip": "Application\\BussinessLogic\\Items\\Command\\Add\\AddCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T21:36:09.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Application",
+              "DocumentMoniker": "G:\\Crud Operation\\LuftBorn.API\\Application\\Application.csproj",
+              "RelativeDocumentMoniker": "Application\\Application.csproj",
+              "ToolTip": "G:\\Crud Operation\\LuftBorn.API\\Application\\Application.csproj",
+              "RelativeToolTip": "Application\\Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-26T21:30:48.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Infrastructure",
+              "DocumentMoniker": "G:\\Crud Operation\\LuftBorn.API\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "G:\\Crud Operation\\LuftBorn.API\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-26T21:32:10.699Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
